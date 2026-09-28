@@ -1,0 +1,6 @@
+{
+  "name": "MznLiveVendors",
+  "description": "Companion vendor app for MznLive to manage inventory, track orders, live sales analytics, push notifications, customer reviews, and discount offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
